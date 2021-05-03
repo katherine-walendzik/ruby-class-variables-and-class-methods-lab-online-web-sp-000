@@ -1,4 +1,6 @@
 class Song 
   
-def
+  def initialize
+    
+  end
 end
